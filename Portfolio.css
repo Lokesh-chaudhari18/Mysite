@@ -1,0 +1,98 @@
+#portfolio-design{
+    text-decoration: underline;
+    padding-top: 60px;
+    color: #37517e;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+
+#para-centre-design{
+    text-align: center;
+}
+
+#noanim-tab-example{
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+
+
+
+
+
+#Row-designp{
+    
+}
+
+#bottle-size{
+    height: 421px ;
+    width: 415px;
+}
+
+#tea-size{
+    width: 415px;
+    height: 277px;
+}
+
+#plant-size{
+    width: 415px;
+    height: 233px;
+
+}
+#stool-size{
+    position: relative;
+    width: 415px;
+    height: 618px;
+    top: 25px;
+}
+
+
+
+
+#lamp-size{
+    position: relative;
+    width: 415px;
+    height: 621px;
+    top: -120px;
+}
+
+
+#chasma-size{
+    position: relative;
+    width: 415px;
+    height: 276px;
+    top: -160px;
+
+}
+
+#Row2-design{
+   position: absolute;
+
+}
+
+
+
+#lens-size{
+    position: relative;
+    height: 270px;
+    width: 415px;
+    top: 145px;
+    
+
+}
+
+#watch-size{
+    position: relative;
+    width: 415px;
+    height: 277px;
+    top: 259px;
+}
+
+#unknown-size{
+    position: relative;
+    width: 415px;
+    height: 277px;
+    top: 172px;
+
+
+}

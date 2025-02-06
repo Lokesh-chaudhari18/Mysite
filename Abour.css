@@ -1,0 +1,115 @@
+/* h1, h2,h3,h4,h5,h6{  
+    color: #37517e;
+
+} */
+#about-design{
+
+    
+    
+    text-align: center;
+    padding: 60px;
+}
+
+#RowP-design{
+    font-size: 18px;
+    color: #000000a8;
+    margin-bottom: 40px;
+   
+
+}
+
+ul{
+   
+   line-height: 1cm;
+  
+
+} 
+
+#Col2-Design{
+   margin-bottom: 20px;
+}
+
+
+#temp{
+    color: #37517e;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+
+/* #Heading-color{
+    color: #37517e;
+} */
+
+#Col3-Desing{
+padding-top: 40px;
+margin-left: 90px; 
+
+}
+
+#Row-desing{
+    background-color: #f5f6f8;
+   
+    margin-bottom: 20px;
+   
+
+}
+
+#accordion-bpadding{
+   margin-bottom: 20px;
+}
+
+#img1-design{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    right: 10%;
+    top: 80%;
+} 
+
+
+
+/* 
+.accordion-item {
+    margin-bottom: 15px;
+    
+  } */
+  
+ 
+   
+
+
+.text-heading{
+    color: #37517e;
+   
+}
+
+/* .accordion-design{
+    position: relative;
+    top: -50px;
+} */
+
+#blue-color-accordion{
+    color: #47b2e4;
+    font-weight: 700;
+
+} 
+
+
+#img2-desing{
+    height: 370px;
+    width: 630px;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+#progressbar-col-design{
+    margin-right: 80px;
+}
+
+#paragraph-design{
+    color:color-mix(in srgb, #fff parecentage, transparent 50%);
+    font-style: italic;
+    
+}
+
+
+

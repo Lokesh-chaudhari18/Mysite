@@ -1,0 +1,20 @@
+#contact-design{
+    text-decoration: underline;
+    padding-top: 60px;
+    color: #37517e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+.Contact-formmm{
+
+    background-color: #6d7a91;
+    width: 50%;
+    border: #7a7878 solid 2px;
+    margin: 10px;
+    padding: 15px;
+    text-align: left;
+    border-radius: 10px;
+    
+}
